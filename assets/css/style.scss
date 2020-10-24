@@ -3,6 +3,10 @@
 
 @import "";
 
-.markdown-body {
+#header_wrap {
+    display: none;
+}
+
+#main-content {
   background-color: red;
 }

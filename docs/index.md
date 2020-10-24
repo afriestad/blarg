@@ -59,7 +59,9 @@ Read the entire letter/report [here (Google Drive, courtesy of Bachmanetti)](htt
 ### The Logbook
 The logbook is 46 pages long and details Clovis Bray's exploration of Europa and work on Exos. It contains a ton of puzzles and lore, as well as some letters to and from his grandchildren: Elsie, Ana and Willa. Hot damn is this a read. I recommend looking through it all. So far all the puzzles we have found came from within this logbook, and there are probably more because there are so many cryptic images in here.
 
-Read the entire logbook [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view?usp=sharing).
+Read the entire logbook as PDF [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view?usp=sharing).
+
+All text from the logbook also exists [here (Google Docs)](https://docs.google.com/document/d/1NHsZL5YRzG-NeyvMczOkEe7g01e2Vb9CKyx7-g6vUgY/edit), courtesy of Eruke (Eruke#7280 on Discord). It is all copypastable, and well formatted!
 
 ## The Solutions
 There are several puzzles. Most are found in the logbook, so far. We have solved some.

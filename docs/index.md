@@ -22,7 +22,7 @@ High res images and PDFs exist [here (Google Drive)](https://drive.google.com/fi
       4. [(Everyone) The Graph Puzzle](#everyone-the-graph-puzzle)
 3. [The Unsolved Mysteries](#the-unsolved-mysteries)
 4. [The Dead Ends/Red Herrings](#the-dead-ends)
-   1. [4K Background Maze/Game of Life](#4k-background-maze)
+   1. [4K Background Maze/Game of Life](#4k-background-mazegame-of-life)
 
 ## Things of Interest
 
@@ -88,7 +88,7 @@ There is a hint about where we can use this code, too. Underneath the table is t
   et/analyze
 ```
 
-This is easily understood as https://bungie.net/analyze, which indeed is a webpage that contains a code entry field.
+This is easily understood as [https://bungie.net/analyze](https://bungie.net/analyze), which indeed is a webpage that contains a code entry field.
 
 To fill in the code, one must be logged in to Bungie.net and have redeemed one of the CE postcard codes (in essence, you must be an owner of the CE). If you do this (and wait a bit for the sync to update your permissions in the background somewhere), then entering "CHOOSE" into the field will give you a screen like the following:
 
@@ -103,7 +103,7 @@ This is a countdown, specifically counting down to **Thursday Nov 5 at 11 AM PDT
 Most of the puzzles so far have resulted in emblem codes. There is also one emblem code that is unique to owners of the CE.
 
 #### (CE Owners Only) The postcard
-There is a code printed on the postcard which is _single use_ and unique for each postcard. It can be redeemed on [bungie.net/redeem](https://bungie.net/redeem)
+There is a code printed on the postcard which is _single use_ and unique for each postcard. It can be redeemed on [bungie.net/redeem](https://bungie.net/redeem). See [The Postcard](#the-postcard) for how to find the code.
 
 #### (Everyone) The Tube/Rod Puzzle
 There are tubes/rods several places. Page 14. Page 27. Page 14 contains the code for the puzzle: match rods of the same length on page 27 and write the corresponding letters from top to bottom. The sequence of rods of length 9 is a code for an emblem: XXX-XXX-XXX (Redeem at [bungie.net/redeem](https://bungie.net/redeem))
@@ -115,10 +115,15 @@ Explain. Page 27 and Page 12.
 Explain. Page 39.
 
 ## The Unsolved Mysteries
-Do we have any?
+Please help with finding more! I follow the #beyond-light-arg channel on the RaidSecrets Discord closely, along with many many others, so take your findings there.
 
 ## The Dead Ends
-We've looked so diligently we found mysteries where there were none. I list them here.
+We've looked so diligently we even found mysteries where there were none. I list them here.
 
-### 4K Background Maze
-Cozmo confirmed on Reddit that [this is just an image compression artefact](https://www.reddit.com/r/raidsecrets/comments/jekt2x/beyond_light_wallpaper_game_of_life_investigation/g9kjexg).
+### 4K Background Maze/Game of Life
+Someone noticed a weird maze-like structure in the upper left hand corner of the following image:
+
+![Beyond Light 4K Background](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png)
+Image courtesy: Bungie. [Original](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png).
+
+It was theorized that this might have something to do with Conway's Game of Life. However, Cozmo confirmed on Reddit that [this is just an image compression artefact](https://www.reddit.com/r/raidsecrets/comments/jekt2x/beyond_light_wallpaper_game_of_life_investigation/g9kjexg).

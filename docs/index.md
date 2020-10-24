@@ -32,7 +32,7 @@ Officially called "The Splinter" in the guide explaining how it works, the statu
 ### The Postcard
 
 ![The backside of the postcard, containing some text (see below)](assets/img/postcard-pg2.png)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from [original PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view).
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view).
 
 The postcard contains a line of red text containing the following three parts: `ca 0 1 9 9 1 0707 B´ID`, `N N N - N N N - N N N`, `S T R   D ST`
 The first and third part are equal on all postcards. The second part is unique for each postcard, and is an emblem code that can be redeemed for an emblem at [bungie.net/redeem](https://bungie.net/redeem). **THE CODE IS UNIQUE AND USABLE ONCE ONLY! DO NOT SHARE YOURS WITH OTHERS BEFORE YOU HAVE REDEEMED IT!**
@@ -52,7 +52,49 @@ There are several puzzles. Most are found in the logbook. We have solved some.
 
 ### The Code from the Pyramid
 The solution to this mystery can be found by combining the blinking of the pyramid on Code mode with the table on Page 1.
-TODO: Writeup
+
+![The first page of the Logbook. There is a table with 5 rows and 23 columns. To the right of each row is a number. Top left of the table is the number 0](assets/img/logbook-pg1-cutout-1.jpg)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+To the left of the first row of the table is the number 0.
+To the right of the table, one on each row, we find the following numbers:
+
+```
+11350
+22699
+34050
+45399
+56750
+```
+
+[Here is a 63 second video of the Splinter blinking](https://twitter.com/i/status/1318568351665442817), courtesy of Melmsie ([Twitter](https://twitter.com/realmelmsie)). Note the softer "pulsing" blinks that appear about every 11 seconds.
+
+~~![66-second video of the splinter blinking](assets/video/bachmanetti-shard-66s.mp4)~~ Embedding doesn't work :(
+
+Bachmanetti figured out that the numbers to the left of the table are timestamps (in milliseconds), and that they correspond more or less exactly with the pulsing blinks. This means that each cell in the table roughly corresponds to half a second. If we fill in the half-seconds where the Splinter is lit (not counting our pulse blinks), we get the following result:
+
+![The same table with several cells filled](assets/img/choose.png)
+Image credit: Dzho (Dzho#1101 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768235162353664050/unknown.png)
+
+This spells out CHOOSE. (Dzho actually noticed the split into five sequences and made this image before Bachmanetti realized the numbers are timestamps)
+
+There is a hint about where we can use this code, too. Underneath the table is the following text:
+
+```
+> ht
+  tps:
+  //b.n
+  et/analyze
+```
+
+This is easily understood as https://bungie.net/analyze, which indeed is a webpage that contains a code entry field.
+
+To fill in the code, one must be logged in to Bungie.net and have redeemed one of the CE postcard codes (in essence, you must be an owner of the CE). If you do this (and wait a bit for the sync to update your permissions in the background somewhere), then entering "CHOOSE" into the field will give you a screen like the following:
+
+![Screenshot of bungie.net/analyze after successfull code entry](assets/img/bungie-net-analyze.png)
+Image courtesy: Myrzir (Myrzir#0934 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768556752077062204/unknown.png)
+
+This is a countdown, specifically counting down to **Thursday Nov 5 at 11 AM PDT** (18:00 UTC, one hour after reset). This seems to be a countdown. If you are a CE owner, check back on the page after the countdown ends! Chances are this will be the start of the ARG proper, and that we will get instructions for the next step on this page.
 
 ### Emblem Codes
 Most of the puzzles so far have resulted in emblem codes. There is also one emblem code that is unique to owners of the CE.
@@ -76,4 +118,4 @@ Do we have any?
 We've looked so diligently we found mysteries where there were none. I list them here.
 
 ### 4K Background Maze
-This has been confirmed to be an image compression artefact by Cozmo.
+Cozmo confirmed on Reddit that [this is just an image compression artefact](https://www.reddit.com/r/raidsecrets/comments/jekt2x/beyond_light_wallpaper_game_of_life_investigation/g9kjexg).

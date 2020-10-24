@@ -35,7 +35,7 @@ Go redeem them at [bungie.net/redeem](https://bungie.net/redeem). If you want to
 ## Things of Interest
 
 ### The Pyramid Statue
-Officially called "The Splinter" in the guide explaining how it works, the statue has three modes: On, Code, Off. In Code mode, it blinks in a repeating pattern of about a minute, with a combination of short, long and pulsating blinks. This code has been cracked, see [The Code From the Pyramid](#the-code-from-the-pyramid).
+Officially called "The Splinter" in the guide explaining how it works, the statue has four modes: On, Breathe, Code, Off. In Code mode, it blinks in a repeating pattern of about a minute, with a combination of short, long and pulsating blinks. This code has been cracked, see [The Code From the Pyramid](#the-code-from-the-pyramid).
 
 ### The Postcard
 
@@ -82,6 +82,8 @@ To the right of the table, one on each row, we find the following numbers:
 45399
 56750
 ```
+
+Additionally, underneath the table, we see three outline drawings of The Splinter. Pointing to one of these, conspicuously in the same place as the on-button of the statue, is a sequence of four dots. The third of these dots is filled. Remember that the third mode of the Splinter is the Code mode, which means that the Splinter is likely a part of the solution to this puzzle!
 
 [Here is a 63 second video of the Splinter blinking](https://twitter.com/i/status/1318568351665442817), courtesy of Melmsie ([Twitter](https://twitter.com/realmelmsie)). Note the softer "pulsing" blinks that appear about every 11 seconds.
 

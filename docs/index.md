@@ -9,9 +9,9 @@ High res images and PDFs exist [here (Google Drive)](https://drive.google.com/fi
 
 In case you are only here for the emblem codes, here they are:
 
-* 7LV-GTK-T7J
-* JYN-JAA-Y7D
-* RA9-XPH-6KJ
+* `7LV-GTK-T7J`
+* `JYN-JAA-Y7D`
+* `RA9-XPH-6KJ`
 
 Go redeem them at [bungie.net/redeem](https://bungie.net/redeem). If you want to know how they were found, read on!
 
@@ -49,14 +49,20 @@ The first part seems to be a reference to Bungie itself (The company was started
 
 The third part seems to be a reference to "Stardust", which has been rumoured to be an internal codename, first for Season of Arrivals, then for Beyond Light. Its appearance here seems to support the latter. May also be an allusion to the seeming fact that The Nine have an interest in Europa (as detailed in [The Letter/Vanguard Report](#the-letter)).
 
+See the entire thing [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing).
+
 ### The Letter
-Write about the letter
+The letter is twofold: a report to the Vanguard by "CHA-319" regarding the ban on traveling to Europa, and a handwritten letter on the back. The letter references Clovis Bray as "my grandfather", and is signed "Your stranger I remain, E". This confirms that the Exo Stranger is Elsie Bray, as we have suspected for a while now.
+
+Read the entire letter/report [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1705NGpLBLjwlS-eJ7Q_1CsOQaS-tVlN_/view?usp=sharing).
 
 ### The Logbook
-Write about the logbook
+The logbook is 46 pages long and details Clovis Bray's exploration of Europa and work on Exos. It contains a ton of puzzles and lore, as well as some letters to and from his grandchildren: Elsie, Ana and Willa. Hot damn is this a read. I recommend looking through it all. So far all the puzzles we have found came from within this logbook, and there are probably more because there are so many cryptic images in here.
+
+Read the entire logbook [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view?usp=sharing).
 
 ## The Solutions
-There are several puzzles. Most are found in the logbook. We have solved some.
+There are several puzzles. Most are found in the logbook, so far. We have solved some.
 
 ### The Code from the Pyramid
 The solution to this mystery can be found by combining the blinking of the pyramid on Code mode with the table on Page 1.
@@ -114,16 +120,51 @@ Most of the puzzles so far have resulted in emblem codes. There is also one embl
 There is a code printed on the postcard which is _single use_ and unique for each postcard. It can be redeemed on [bungie.net/redeem](https://bungie.net/redeem). See [The Postcard](#the-postcard) for how to find the code.
 
 #### (Everyone) The Tube/Rod Puzzle
-There are tubes/rods several places. Page 14. Page 27. Page 14 contains the code for the puzzle: match rods of the same length on page 27 and write the corresponding letters from top to bottom. The sequence of rods of length 9 is a code for an emblem: XXX-XXX-XXX (Redeem at [bungie.net/redeem](https://bungie.net/redeem))
+There are tubes/rods on pages 16 and 27 in the logbook. Page 16 contains the following:
+
+![Cutout from page 16 with rods and corresponding letters](assets/img/logbook-pg16-cutout-1.jpg)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 16 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+Page 27 contains the following:
+
+![Cutout from page 27 with three rods comprised of smaller rods](assets/img/logbook-pg27-cutout-1.png)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 27 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+The rods on page 27 are each comprised of several smaller rods. If we use the legend from page 16 to translate to letters, we get the following three sequences:
+
+```
+67S6K99
+37XP7AJ7X6J
+RA9XPH6KJ
+```
+
+There is an arrow pointing at the rightmost rod, and the code is indeed 9 characters long: `RA9-XPH-6KJ`. This is an emblem code, redeem it at [bungie.net/redeem](https://bungie.net/redeem)!
 
 #### (Everyone) The Dot Letter Puzzle
-Explain. Page 27 and Page 12.
+On page 28 of the logbook, we find the following configuration:
+
+![Cutout from page 28 with many dots, some of which have letters by them](assets/img/logbook-pg28-cutout-1.png)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 28 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+On page 12, we find the same dot configuration, but without the letters:
+
+![Cutout from page 12 with many dots, and a line going through several of them](assets/img/logbook-pg12-cutout-1.png)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 12 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+However, the dot pattern on page 12 has a line going through it! If we start in the hollowed out dot and follow the line to the end, noting down letters as we pass through their corresponding node, we get the following sequence: `JYNJAAY7D`. This is 9 characters! Go ahead and redeem `JYN-JAA-Y7D` at [bungie.net/redeem](https://bungie.net/redeem).
 
 #### (Everyone) The Graph Puzzle
-Explain. Page 39.
+Page 39 of the logbook contains the following graph:
+
+![Cutout from page 39 of a graph, the y axis labled 0 at the bottom and Z at the top](assets/img/logbook-pg39-cutout-1.png)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 39 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+The Y axis is labled 0 at the bottom and Z at the top. The axis has 36 marks, which corresponds to `0-9` and `A-Z`. If we mark the axis like this, counting upwards like `012...89ABC...YZ`, and mark down the points on the graph line from left to right, you get the following Y-indices: `7 21 31 16 29 20 29 7 19`, which correspond to the string `7LVGTKT7J` (`10` is `A`, `11` is `B`, and so on). This code is 9 characters long! We can redeem `7LV-GTK-T7J` at [bungie.net/redeem](https://bungie.net/redeem).
 
 ## The Unsolved Mysteries
-Please help with finding more! I follow the #beyond-light-arg channel on the RaidSecrets Discord closely, along with many many others, so take your findings there.
+As you have probably gathered, there are probably more puzzles hidden here. There are patterns in the screenshots above I have not mentioned, and many more elsewhere in the logbook. What do they mean? We don't know! Come to the #beyond-light-arg channel on the RaidSecrets Discord if you are interested in helping out with finding and solving them!
+
+I am also a part of the Corridor Crunch discord, where we made a crowdsourcing engine for the Corridors of Time puzzle. We want to do the same for this ARG, and to gather puzzle enthusiasts on [our Discord channel](https://discord.gg/W9Uwgqv). If you are interested in helping with the crowdsourcing, development or puzzling, join us!
 
 ## The Dead Ends
 We've looked so diligently we even found mysteries where there were none. I list them here.
@@ -132,6 +173,6 @@ We've looked so diligently we even found mysteries where there were none. I list
 Someone noticed a weird maze-like structure in the upper left hand corner of the following image:
 
 ![Beyond Light 4K Background](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png)
-Image courtesy: Bungie. [Original](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png).
+Image credit: Bungie. [Original](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png).
 
 It was theorized that this might have something to do with Conway's Game of Life. However, Cozmo confirmed on Reddit that [this is just an image compression artefact](https://www.reddit.com/r/raidsecrets/comments/jekt2x/beyond_light_wallpaper_game_of_life_investigation/g9kjexg).

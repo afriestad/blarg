@@ -5,7 +5,7 @@ The [Collector's Edition (CE) of Beyond Light](https://eu.bungiestore.com/collec
 
 Out of these, we have found things of interest on the postcard, the letter/report, the pyramid and the logbook.
 
-High res images and PDFs exist [here (Google Drive)](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing), courtesy of Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)).
+High res images and PDFs exist [here (Google Drive)](https://drive.google.com/drive/folders/1mNPXZUR_tA0iN0b5GHCKcIu5RHmVTsYB), courtesy of Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)).
 
 In case you are only here for the emblem codes, here they are:
 

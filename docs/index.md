@@ -7,6 +7,14 @@ Out of these, we have found things of interest on the postcard, the letter/repor
 
 High res images and PDFs exist [here (Google Drive)](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing), courtesy of Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)).
 
+In case you are only here for the emblem codes, here they are:
+
+* 7LV-GTK-T7J
+* JYN-JAA-Y7D
+* RA9-XPH-6KJ
+
+Go redeem them at [bungie.net/redeem](https://bungie.net/redeem). If you want to know how they were found, read on!
+
 ## Table of Contents
 1. [Things of Interest](#things-of-interest)
    1. [The Pyramid Statue](#the-pyramid-statue)

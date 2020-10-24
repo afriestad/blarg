@@ -5,6 +5,8 @@ The [Collector's Edition (CE) of Beyond Light](https://eu.bungiestore.com/collec
 
 Out of these, we have found things of interest on the postcard, the letter/report, the pyramid and the logbook.
 
+High res images and PDFs exist [here (Google Drive)](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing), courtesy of Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)).
+
 ## Table of Contents
 1. [Things of Interest](#things-of-interest)
    1. [The Pyramid Statue](#the-pyramid-statue)
@@ -25,10 +27,19 @@ Out of these, we have found things of interest on the postcard, the letter/repor
 ## Things of Interest
 
 ### The Pyramid Statue
-Write about the pyramid
+Officially called "The Splinter" in the guide explaining how it works, the statue has three modes: On, Code, Off. In Code mode, it blinks in a repeating pattern of about a minute, with a combination of short, long and pulsating blinks. This code has been cracked, see [The Code From the Pyramid](#the-code-from-the-pyramid).
 
 ### The Postcard
-Write about the postcard
+
+![The backside of the postcard, containing some text (see below)](assets/img/postcard-pg2.png)
+Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from [original PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view).
+
+The postcard contains a line of red text containing the following three parts: `ca 0 1 9 9 1 0707 B´ID`, `N N N - N N N - N N N`, `S T R   D ST`
+The first and third part are equal on all postcards. The second part is unique for each postcard, and is an emblem code that can be redeemed for an emblem at [bungie.net/redeem](https://bungie.net/redeem). **THE CODE IS UNIQUE AND USABLE ONCE ONLY! DO NOT SHARE YOURS WITH OTHERS BEFORE YOU HAVE REDEEMED IT!**
+
+The first part seems to be a reference to Bungie itself (The company was started in 1991, and 0707 (July 7) is Bungie Day).
+
+The third part seems to be a reference to "Stardust", which has been rumoured to be an internal codename, first for Season of Arrivals, then for Beyond Light. Its appearance here seems to support the latter. May also be an allusion to the seeming fact that The Nine have an interest in Europa (as detailed in [The Letter/Vanguard Report](#the-letter)).
 
 ### The Letter
 Write about the letter

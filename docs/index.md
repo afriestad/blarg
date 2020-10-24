@@ -74,6 +74,7 @@ To the right of the table, one on each row, we find the following numbers:
 Bachmanetti figured out that the numbers to the left of the table are timestamps (in milliseconds), and that they correspond more or less exactly with the pulsing blinks. This means that each cell in the table roughly corresponds to half a second. If we fill in the half-seconds where the Splinter is lit (not counting our pulse blinks), we get the following result:
 
 ![The same table with several cells filled](assets/img/choose.png)
+
 Image credit: Dzho (Dzho#1101 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768235162353664050/unknown.png)
 
 This spells out CHOOSE. (Dzho actually noticed the split into five sequences and made this image before Bachmanetti realized the numbers are timestamps)
@@ -95,6 +96,8 @@ To fill in the code, one must be logged in to Bungie.net and have redeemed one o
 Image courtesy: Myrzir (Myrzir#0934 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768556752077062204/unknown.png)
 
 This is a countdown, specifically counting down to **Thursday Nov 5 at 11 AM PDT** (18:00 UTC, one hour after reset). This seems to be a countdown. If you are a CE owner, check back on the page after the countdown ends! Chances are this will be the start of the ARG proper, and that we will get instructions for the next step on this page.
+
+**NOTE: The page doesn't seem to work properly on mobile, nor in Firefox and Safari browsers. If you are having trouble with these browsers, try entering the code using another browser**
 
 ### Emblem Codes
 Most of the puzzles so far have resulted in emblem codes. There is also one emblem code that is unique to owners of the CE.

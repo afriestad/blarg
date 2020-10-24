@@ -1,2 +1,2 @@
-# blarg
-All my stuff related to the D2 Beyond Light ARG
+# BLARG
+An attempt to gather all knowledge so far about the Destiny 2 Beyond Light ARG

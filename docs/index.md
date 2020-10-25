@@ -1,7 +1,7 @@
 # Destiny 2: Beyond Light ARG
 **What we know so far**.
 
-The [Collector's Edition (CE) of Beyond Light](https://eu.bungiestore.com/collections/collectors-edition/products/preorder-destiny-2-beyond-light-collectors-edition-no-game-code) contains the following items: a bag, a canteen, a soundtrack CD, a sticker, a postcard, a letter/report, a "mysterious logbook" and a statue of a pyramid ship.
+The [Collector's Edition (CE) of Beyond Light](https://eu.bungiestore.com/collections/collectors-edition/products/preorder-destiny-2-beyond-light-collectors-edition-no-game-code) contains the following items: a bag, a canteen, a soundtrack (digital), a sticker, a postcard, a letter/report, a "mysterious logbook" and a statue of a pyramid ship.
 
 Out of these, we have found things of interest on the postcard, the letter/report, the pyramid and the logbook.
 

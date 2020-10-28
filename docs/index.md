@@ -1,3 +1,5 @@
+**English** | [Deutsch](de_DE/index.md)
+
 # Destiny 2: Beyond Light ARG
 **What we know so far**.
 

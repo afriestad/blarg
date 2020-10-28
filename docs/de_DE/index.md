@@ -29,7 +29,7 @@ Ihr könnt sie auf [bungie.net/redeen](https://bungie.net/redeem) einlösen. Wen
       4. [(Alle) Das Graphen Rätsel](#alle-das-graphen-rätsel)
 3. [Ungelöste Rätsel](#ungelöste-rätsel)
 4. [Sackgassen](#sackgassen)
-   1. [4K Hintergrund des Labyrinths / Spiel des Lebens](#4k-hintergrund-des-labyrinthsspiel-des-lebens)
+   1. [4K Hintergrund des Labyrinths / Spiel des Lebens](#4k-hintergrund-des-labyrinths--spiel-des-lebens)
 
 ## Hinweise
 

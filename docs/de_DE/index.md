@@ -15,26 +15,26 @@ Falls ihr nur für die Emblem Codes auf dieser Seite seid, findet ihr sie hier:
 Ihr könnt sie auf [bungie.net/redeen](https://bungie.net/redeem) einlösen. Wenn ihr wissenw wollt, wie und wo sie gefunden wurden, könnt ihr hier weiter lesen.
 
 ## Inhaltsverzeichnis
-1. [Hinweise](#things-of-interest)
-   1. [Das Modell des Pyramidenschiffes](#the-pyramid-statue)
-   2. [Die Postkarte](#the-postcard)
-   3. [Der Brief](#the-letter)
-   4. [Das Logbuch](#the-logbook)
-2. [Der Rätsel Lösungen](#the-solutions)
-   1. [Das Rätsel der Pyramide](#the-code-from-the-pyramid)
+1. [Hinweise](#hinweise)
+   1. [Das Modell des Pyramidenschiffes](#das-modell-des-pyramidenschiffes)
+   2. [Die Postkarte](#die-postkarte)
+   3. [Der Brief](#der-brief)
+   4. [Das Logbuch](#das-logbuch)
+2. [Der Rätsel Lösungen](#der-rätsel-lösungen)
+   1. [Das Rätsel der Pyramide](#das-rätsel-der-pyramide)
    2. [Emblem Codes](#emblem-codes)
-      1. [(Nur für Besitzer der CE) Die Postkarte](#ce-owners-only-the-postcard)
-      2. [(Alle) Das Stabrätsel](#everyone-the-tuberod-puzzle)
-      3. [(Alle) Das Punkt Zeichen Rätsel](#everyone-the-dot-letter-puzzle)
-      4. [(Alle) Das Graphen Rätsel](#everyone-the-graph-puzzle)
-3. [Ungelöste Rätsel](#the-unsolved-mysteries)
-4. [Sackgassen](#the-dead-ends)
-   1. [4K Hintergrund des Labyrinths / Spiel des Lebens](#4k-background-mazegame-of-life)
+      1. [(Nur für Besitzer der CE) Die Postkarte](#nur-für-besitzer-der-ce-die-postkarte)
+      2. [(Alle) Das Stabrätsel](#alle-das-stabrätsel)
+      3. [(Alle) Das Punkt Zeichen Rätsel](#alle-das-punkt-zeichen-rätsel)
+      4. [(Alle) Das Graphen Rätsel](#alle-das-graphen-rätsel)
+3. [Ungelöste Rätsel](#ungelöste-rätsel)
+4. [Sackgassen](#sackgassen)
+   1. [4K Hintergrund des Labyrinths / Spiel des Lebens](#4k-hintergrund-des-labyrinthsspiel-des-lebens)
 
 ## Hinweise
 
 ### Das Modell des Pyramidenschiffes
-Offiziell wird es "The Splinter" (zu deutsch "Der Splitter") genannt. In der Anleitung steht, wie es funktioniert. Das Modell hat vier Modi: Eingeschaltet, Atmend, Code, Ausgeschaltet. Im Code Modus blinkt es in sich wiederholenden Sequenzen aus kurzen und langen eingeschalteten Phasen, die etwa eine Minute lang sind. Das Rätsel wurde bereits gelöst, siehe [Das Rätsel der Pyramide](#the-code-from-the-pyramid).
+Offiziell wird es "The Splinter" (zu deutsch "Der Splitter") genannt. In der Anleitung steht, wie es funktioniert. Das Modell hat vier Modi: Eingeschaltet, Atmend, Code, Ausgeschaltet. Im Code Modus blinkt es in sich wiederholenden Sequenzen aus kurzen und langen eingeschalteten Phasen, die etwa eine Minute lang sind. Das Rätsel wurde bereits gelöst, siehe [Das Rätsel der Pyramide](#das-rätsel-der-pyramide).
 
 ### Die Postkarte
 
@@ -46,11 +46,11 @@ Der erste und der dritte Teil sind auf allen Postkarten identisch. Der Zweite Te
 
 Der erste Teil scheint der Zeile scheint sich auf Bungie selbst zu eziehen (Die Firma wurde 1991 gegründet und 0707 (7. Juli) ist der Bungie Day).
 
-Der dritte Teil scheint eine Referenz auf das Wort "Stardust" zu sein, von dem gemunkelt wird, es sei ein interner Name gewesen, der zuerst für die Saison der Ankunft und dann für das DLC Jenseits des Lichts genutzt wurde. Das Erscheinen auf der Postkarte legt letzteres nahe. Es könnte ebenso eine Anspielung auf den scheinbaren Fakt sein, dass "Die Neun" ein Interesse an dem Mond Europa haben (Details dazu in [Der Brief / Bericht an die Vorhut](#the-letter)).
+Der dritte Teil scheint eine Referenz auf das Wort "Stardust" zu sein, von dem gemunkelt wird, es sei ein interner Name gewesen, der zuerst für die Saison der Ankunft und dann für das DLC Jenseits des Lichts genutzt wurde. Das Erscheinen auf der Postkarte legt letzteres nahe. Es könnte ebenso eine Anspielung auf den scheinbaren Fakt sein, dass "Die Neun" ein Interesse an dem Mond Europa haben (Details dazu in [Der Brief / Bericht an die Vorhut](#der-brief)).
 
 Den originaltext findet ihr [hier (Google Drive, mit freundlicher Genehmigung von Bachmanetti)](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing).
 
-### Der Brief / Bericht der Vorhut
+### Der Brief
 Der Brief besteht aus zwei Teilen: Einem Bericht an die Vorhut von "CHA-319" bezüglich des Reiseverbotes nach Europa sowie einem handgeschriebenen Brief auf der Rückseite. Im Brief wird Clovis Bray als "mein Großvater" bezeichnet. Außerdem ist er mit "Your stranger I remain, E" (Als Fremder verbleibe ich, E) gezeichnet, was bestätigt, dass es sich bei dem fremden Exo wie wir schon schon für eine Weile vermuteten um Elsie Bray handelt.
 
 Den Original Brief / Bericht findet ihr [hier (Google Drive, mit freundlicher Genehmigung von Bachmanetti)](https://drive.google.com/file/d/1705NGpLBLjwlS-eJ7Q_1CsOQaS-tVlN_/view?usp=sharing)
@@ -117,8 +117,8 @@ Das Bild ist ein Countdown, um genau zu sein einer, der auf **Donnerstag den 5. 
 ### Emblem Codes
 Bisher haben die meisten der Rätsel einen Emblem Code als Lösung gehabt, einschließlich einem, der nur für Besitzer der CE funktioniert.
 
-#### (Nur Besitzer der CE) Die Postkarte
-Auf der Postkarte findet sich ein Code, der nur _ein mal_ verwendet werden kann und einzigartig ist. Er kann auf [bungie.net/redeem](https://bungie.net/redeem) eingelöst werden und ist effektiv euer Nachweis für den Account, dass ihr die CE besitzt. Lest [Die Postkarte](#the-postcard) um herauszufinden, wo ihr den Code findet.
+#### (Nur für Besitzer der CE) Die Postkarte
+Auf der Postkarte findet sich ein Code, der nur _ein mal_ verwendet werden kann und einzigartig ist. Er kann auf [bungie.net/redeem](https://bungie.net/redeem) eingelöst werden und ist effektiv euer Nachweis für den Account, dass ihr die CE besitzt. Lest [Die Postkarte](#die-postkarte) um herauszufinden, wo ihr den Code findet.
 
 #### (Alle) Das Stabrätsel
 Auf den Seiten 16 und 27 des Logbuchs finden sich Stäbe. Seite 16 zeigt das folgende:

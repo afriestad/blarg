@@ -170,7 +170,7 @@ Ich (nicht der Übersetzer, sondern der Autor des Original Posts) bin außerdem 
 ## Sackgassen
 Wir haben so genau hingeschaut, dass wir Hinweise gefunden haben, wo gar keine waren. Diese werde ich hier auflisten.
 
-### 4K Hintergrund Labyrinth / Spiel des Lebens
+### 4K Hintergrund des Labyrinths / Spiel des Lebens
 Jemand hat eine seltsame, Labyrinthartige Struktur in der oberen linken Ecke des folgenden Bildes gefunden:
 
 ![Jenseits des Lichts 4K Hintergrund](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png)

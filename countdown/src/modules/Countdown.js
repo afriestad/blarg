@@ -3,7 +3,7 @@ All code in here is liberally lifted from https://github.com/joshhunt/seven/blob
 With thanks!
 */
 
-import moment from "moment";
+import moment from "moment-timezone";
 import React, { useEffect, useState } from "react";
 
 import styles from './Countdown.module.css';
@@ -12,7 +12,7 @@ const pad = (str: string | number) => String(str).padStart(2, "0");
 
 const Timer = () => {
   const [now, setNow] = useState(moment());
-  const releaseGateDate = moment("2020-11-05T18:00:00Z");
+  const releaseGateDate = moment("2020-11-05T19:00:00Z");
 
   useEffect(() => {
     setTimeout(() => setNow(moment()), 1000);

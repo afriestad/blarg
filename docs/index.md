@@ -44,7 +44,8 @@ Officially called "The Splinter" in the guide explaining how it works, the statu
 ### The Postcard
 
 ![The backside of the postcard, containing some text (see below)](assets/img/postcard-pg2.png)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view)._
 
 The postcard contains a line of red text containing the following three parts: `ca 0 1 9 9 1 0707 B´ID`, `N N N - N N N - N N N`, `S T R   D ST`
 The first and third part are equal on all postcards. The second part is unique for each postcard, and is an emblem code that can be redeemed for an emblem at [bungie.net/redeem](https://bungie.net/redeem). **THE CODE IS UNIQUE AND USABLE ONCE ONLY! DO NOT SHARE YOURS WITH OTHERS BEFORE YOU HAVE REDEEMED IT!**
@@ -74,7 +75,8 @@ There are several puzzles. Most are found in the logbook, so far. We have solved
 The solution to this mystery can be found by combining the blinking of the pyramid on Code mode with the table on Page 1.
 
 ![The first page of the Logbook. There is a table with 5 rows and 23 columns. To the right of each row is a number. Top left of the table is the number 0](assets/img/logbook-pg1-cutout-1.jpg)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)._
 
 To the left of the first row of the table is the number 0.
 To the right of the table, one on each row, we find the following numbers:
@@ -93,11 +95,11 @@ Additionally, underneath the table, we see three outline drawings of The Splinte
 
 ~~![66-second video of the splinter blinking](assets/video/bachmanetti-shard-66s.mp4)~~ Embedding doesn't work :(
 
-Bachmanetti figured out that the numbers to the left of the table are timestamps (in milliseconds), and that they correspond more or less exactly with the pulsing blinks. This means that each cell in the table roughly corresponds to half a second. If we fill in the half-seconds where the Splinter is lit (not counting our pulse blinks), we get the following result:
+Bachmanetti figured out that the numbers to the left of the table are timestamps (in milliseconds), and that they correspond with the pulsing type of blinking. Dividing the milliseconds by the amount of columns (for instance, 11350 ms / 23 columns ≈ 500 ms/col ), we find that each cell in the table roughly corresponds to half a second. If we jump half a second at a time on the video and fill the cells that correspond to a lit shard, we get the following result:
 
 ![The same table with several cells filled](assets/img/choose.png)
 
-Image credit: Dzho (Dzho#1101 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768235162353664050/unknown.png)
+_Image credit: Dzho (Dzho#1101 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768235162353664050/unknown.png)_
 
 This spells out CHOOSE. (Dzho actually noticed the split into five sequences and made this image before Bachmanetti realized the numbers are timestamps)
 
@@ -115,11 +117,12 @@ This is easily understood as [https://bungie.net/analyze](https://bungie.net/ana
 To fill in the code, one must be logged in to Bungie.net and have redeemed one of the CE postcard codes (in essence, you must be an owner of the CE). If you do this (and wait a bit for the sync to update your permissions in the background somewhere), then entering "CHOOSE" into the field will give you a screen like the following:
 
 ![Screenshot of bungie.net/analyze after successfull code entry](assets/img/bungie-net-analyze.png)
-Image courtesy: Myrzir (Myrzir#0934 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768556752077062204/unknown.png)
+
+_Image courtesy: Myrzir (Myrzir#0934 on Discord), [original](https://cdn.discordapp.com/attachments/768122197725806643/768556752077062204/unknown.png)_
 
 This is a countdown, specifically counting down to **Thursday Nov 5 at 11 AM PDT** (18:00 UTC, one hour after reset). This seems to be a countdown. If you are a CE owner, check back on the page after the countdown ends! Chances are this will be the start of the ARG proper, and that we will get instructions for the next step on this page.
 
-**NOTE: The page doesn't seem to work properly on mobile, nor in Firefox and Safari browsers. If you are having trouble with these browsers, try entering the code using another browser**
+**NOTE: The page doesn't seem to work properly on mobile. If you are having trouble, try entering the code using another browser or from a computer.**
 
 ### Emblem Codes
 Most of the puzzles so far have resulted in emblem codes. There is also one emblem code that is unique to owners of the CE.
@@ -131,12 +134,14 @@ There is a code printed on the postcard which is _single use_ and unique for eac
 There are tubes/rods on pages 16 and 27 in the logbook. Page 16 contains the following:
 
 ![Cutout from page 16 with rods and corresponding letters](assets/img/logbook-pg16-cutout-1.jpg)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 16 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 16 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)._
 
 Page 27 contains the following:
 
 ![Cutout from page 27 with three rods comprised of smaller rods](assets/img/logbook-pg27-cutout-1.png)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 27 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 27 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)._
 
 The rods on page 27 are each comprised of several smaller rods. If we use the legend from page 16 to translate to letters, we get the following three sequences:
 
@@ -152,12 +157,14 @@ There is an arrow pointing at the rightmost rod, and the code is indeed 9 charac
 On page 28 of the logbook, we find the following configuration:
 
 ![Cutout from page 28 with many dots, some of which have letters by them](assets/img/logbook-pg28-cutout-1.png)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 28 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 28 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)._
 
 On page 12, we find the same dot configuration, but without the letters:
 
 ![Cutout from page 12 with many dots, and a line going through several of them](assets/img/logbook-pg12-cutout-1.png)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 12 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 12 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)._
 
 However, the dot pattern on page 12 has a line going through it! If we start in the hollowed out dot and follow the line to the end, noting down letters as we pass through their corresponding node, we get the following sequence: `JYNJAAY7D`. This is 9 characters! Go ahead and redeem `JYN-JAA-Y7D` at [bungie.net/redeem](https://bungie.net/redeem).
 
@@ -165,7 +172,8 @@ However, the dot pattern on page 12 has a line going through it! If we start in 
 Page 39 of the logbook contains the following graph:
 
 ![Cutout from page 39 of a graph, the y axis labled 0 at the bottom and Z at the top](assets/img/logbook-pg39-cutout-1.png)
-Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 39 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view).
+
+_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 39 of [original PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)._
 
 The Y axis is labled 0 at the bottom and Z at the top. The axis has 36 marks, which corresponds to `0-9` and `A-Z`. If we mark the axis like this, counting upwards like `012...89ABC...YZ`, and mark down the points on the graph line from left to right, you get the following Y-indices: `7 21 31 16 29 20 29 7 19`, which correspond to the string `7LVGTKT7J` (`10` is `A`, `11` is `B`, and so on). This code is 9 characters long! We can redeem `7LV-GTK-T7J` at [bungie.net/redeem](https://bungie.net/redeem).
 
@@ -181,6 +189,7 @@ We've looked so diligently we even found mysteries where there were none. I list
 Someone noticed a weird maze-like structure in the upper left hand corner of the following image:
 
 ![Beyond Light 4K Background](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png)
-Image credit: Bungie. [Original](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png).
+
+_Image credit: Bungie. [Original](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png)._
 
 It was theorized that this might have something to do with Conway's Game of Life. However, Cozmo confirmed on Reddit that [this is just an image compression artefact](https://www.reddit.com/r/raidsecrets/comments/jekt2x/beyond_light_wallpaper_game_of_life_investigation/g9kjexg).

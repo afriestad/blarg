@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blarg/countdown/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/blarg/countdown/static/js/main.1fb8d324.chunk.js",
+    "main.js.map": "/blarg/countdown/static/js/main.1fb8d324.chunk.js.map",
+    "runtime-main.js": "/blarg/countdown/static/js/runtime-main.2e08778c.js",
+    "runtime-main.js.map": "/blarg/countdown/static/js/runtime-main.2e08778c.js.map",
+    "static/js/2.42d6f632.chunk.js": "/blarg/countdown/static/js/2.42d6f632.chunk.js",
+    "static/js/2.42d6f632.chunk.js.map": "/blarg/countdown/static/js/2.42d6f632.chunk.js.map",
+    "static/js/3.e7174c9d.chunk.js": "/blarg/countdown/static/js/3.e7174c9d.chunk.js",
+    "static/js/3.e7174c9d.chunk.js.map": "/blarg/countdown/static/js/3.e7174c9d.chunk.js.map",
+    "index.html": "/blarg/countdown/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/blarg/countdown/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.42d6f632.chunk.js.LICENSE.txt": "/blarg/countdown/static/js/2.42d6f632.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/blarg/countdown/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e08778c.js",
+    "static/js/2.42d6f632.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1fb8d324.chunk.js"
+  ]
+}

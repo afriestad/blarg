@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blarg/countdown/static/css/main.4c62ac3e.chunk.css",
+    "main.css": "/blarg/countdown/static/css/main.ba956fb8.chunk.css",
     "main.js": "/blarg/countdown/static/js/main.c323a0fe.chunk.js",
     "main.js.map": "/blarg/countdown/static/js/main.c323a0fe.chunk.js.map",
     "runtime-main.js": "/blarg/countdown/static/js/runtime-main.0fceba67.js",
@@ -10,13 +10,13 @@
     "static/js/3.47db643e.chunk.js": "/blarg/countdown/static/js/3.47db643e.chunk.js",
     "static/js/3.47db643e.chunk.js.map": "/blarg/countdown/static/js/3.47db643e.chunk.js.map",
     "index.html": "/blarg/countdown/index.html",
-    "static/css/main.4c62ac3e.chunk.css.map": "/blarg/countdown/static/css/main.4c62ac3e.chunk.css.map",
+    "static/css/main.ba956fb8.chunk.css.map": "/blarg/countdown/static/css/main.ba956fb8.chunk.css.map",
     "static/js/2.3e27b265.chunk.js.LICENSE.txt": "/blarg/countdown/static/js/2.3e27b265.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0fceba67.js",
     "static/js/2.3e27b265.chunk.js",
-    "static/css/main.4c62ac3e.chunk.css",
+    "static/css/main.ba956fb8.chunk.css",
     "static/js/main.c323a0fe.chunk.js"
   ]
 }

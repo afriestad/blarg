@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "cp -R build ../docs/countdown",
+    "deploy": "cp -R build/* ../docs/countdown",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

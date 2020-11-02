@@ -1,0 +1,31 @@
+.part2wrapper {
+    padding: 50px;
+    background-color: rgba(40, 44, 52, 0.8);
+    width: 600px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.timer {
+    font-size: 77px;
+    padding: 40px;
+    padding-top: 0;
+    color: white;
+}
+
+.bottomLabel {
+    font-size: 18px;
+    width: calc(100% - 100px);
+}
+
+.aboutMe {
+    font-size: 12px;
+    width: calc(100% - 100px);
+    padding-top: 30px;
+    color: #f8ecd9;
+}
+
+a {
+    color: #82a7c1;
+}

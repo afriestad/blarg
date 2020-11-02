@@ -12,7 +12,7 @@ const pad = (str: string | number) => String(str).padStart(2, "0");
 
 const Timer = () => {
   const [now, setNow] = useState(moment());
-  const releaseGateDate = moment("2020-11-05T19:00:00Z");
+  const releaseGateDate = moment.tz("2020-11-05T19:00:00", "Europe/Oslo");
 
   useEffect(() => {
     setTimeout(() => setNow(moment()), 1000);
@@ -41,10 +41,10 @@ const Timer = () => {
         ))}
       </div>
       <div className={styles.bottomLabel}>
-          Something is about to happen on Europa! Check <a href="../index">this writeup</a> for our progress so far, and come participate in the ARG on <a target="_blank" href="https://discord.gg/Tue4PMf">The RaidSecrets Discord</a>!
+          Something is about to happen on Europa! Check <a href="../index">this writeup</a> for our progress so far, and come participate in the ARG on <a target="_blank" rel="noreferrer" href="https://discord.gg/Tue4PMf">The RaidSecrets Discord</a>!
       </div>
       <div className={styles.aboutMe}>
-          This countdown adapted from Bungie.net by Lemonous (<a href="https://github.com/afriestad">Github</a>, <a href="https://twitter.com/Lemonous">Twitter</a>, <a href="https://reddit.com/u/Aeluvium">Reddit</a>, Lemonous#2690 on Discord). Look at the code <a href="https://github.com/afriestad/blarg">here!</a>
+          This countdown adapted from Bungie.net by Lemonous (<a target="_blank" rel="noreferrer" href="https://github.com/afriestad">Github</a>, <a target="_blank" rel="noreferrer" href="https://twitter.com/Lemonous">Twitter</a>, <a target="_blank" rel="noreferrer" href="https://reddit.com/u/Aeluvium">Reddit</a>, Lemonous#2690 on Discord). Look at the code <a target="_blank" rel="noreferrer" href="https://github.com/afriestad/blarg">here!</a>
       </div>
     </div>
   );

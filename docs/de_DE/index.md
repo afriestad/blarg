@@ -1,4 +1,4 @@
-[English](../index.md) | **Deutsch**
+[English](../index.md) | **Deutsch**  | [한국어](ko_KR/index.md)
 
 # Destiny 2: Jenseits des Lichts ARG (Alternate Reality Game)
 **Was wissen wir bisher?**.

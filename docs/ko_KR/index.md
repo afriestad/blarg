@@ -1,68 +1,68 @@
-**English** | [Deutsch](de_DE/index.md) | [한국어](ko_KR/index.md)
+[English](../index.md) | [Deutsch](de_DE/index.md) | **한국어**
 
-## While the countdown on [bungie.net/analyze](https://bungie.net/analyze) is unreachable, I made available [an interim countdown](countdown).
+## [bungie.net/analyze](https://bungie.net/analyze) 의 카운트다운을 사용할 수 없는 동안, 저는 [임시 카운트다운](countdown) 을 제공합니다.
 
-# Destiny 2: Beyond Light ARG
-**What we know so far**.
+# Destiny 2: 빛의 저편 ARG
+**우리가 지금까지 알아낸 것**.
 
-The [Collector's Edition (CE) of Beyond Light](https://eu.bungiestore.com/collections/collectors-edition/products/preorder-destiny-2-beyond-light-collectors-edition-no-game-code) contains the following items: a bag, a canteen, a soundtrack (digital), a sticker, a postcard, a letter/report, a "mysterious logbook" and a statue of a pyramid ship.
+[빛의 저편 콜렉터스 에디션 (Collector's Edition | CE)](https://eu.bungiestore.com/collections/collectors-edition/products/preorder-destiny-2-beyond-light-collectors-edition-no-game-code) 에는 가방, 물통, 사운드트랙 (디지털), 스티커, 엽서, 편지/보고서, "수수께끼의 일지", 그리고 피라미드 함선 동상이 들어있습니다.
 
-Out of these, we have found things of interest on the postcard, the letter/report, the pyramid and the logbook.
+이 중에서, 우리는 엽서와 편지/보고서, 피라미드, 일지에서 흥미로운 것을 발견했습니다.
 
-High res images and PDFs exist [here (Google Drive)](https://drive.google.com/drive/folders/1mNPXZUR_tA0iN0b5GHCKcIu5RHmVTsYB), courtesy of Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)).
+([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti) Bachmanetti님이 제공해주신 자료 덕분에,  [여기 (구글 드라이브)](https://drive.google.com/drive/folders/1mNPXZUR_tA0iN0b5GHCKcIu5RHmVTsYB)에 고해상도 이미지와 PDF파일이 있습니다.
 
-In case you are only here for the emblem codes, here they are:
+문양 코드만 받으려고 한다면, 이걸 참고하세요:
 
 * `7LV-GTK-T7J`
 * `JYN-JAA-Y7D`
 * `RA9-XPH-6KJ`
 
-Go redeem them at [bungie.net/redeem](https://bungie.net/redeem). If you want to know how they were found, read on!
+[bungie.net/redeem](https://bungie.net/redeem) 에서 코드를 사용하세요. 이것들을 어떻게 찾은 건지 궁금하다면, 계속 읽어보세요!
 
-## Table of Contents
-1. [Things of Interest](#things-of-interest)
-   1. [The Pyramid Statue](#the-pyramid-statue)
-   2. [The Postcard](#the-postcard)
-   3. [The Letter](#the-letter)
-   4. [The Logbook](#the-logbook)
-2. [The Solutions](#the-solutions)
-   1. [The Code from the Pyramid](#the-code-from-the-pyramid)
-   2. [Emblem Codes](#emblem-codes)
-      1. [(CE Owners Only) The Postcard](#ce-owners-only-the-postcard)
-      2. [(Everyone) The Tube/Rod Puzzle](#everyone-the-tuberod-puzzle)
-      3. [(Everyone) The Dot Letter Puzzle](#everyone-the-dot-letter-puzzle)
-      4. [(Everyone) The Graph Puzzle](#everyone-the-graph-puzzle)
-3. [The Unsolved Mysteries](#the-unsolved-mysteries)
-4. [The Dead Ends/Red Herrings](#the-dead-ends)
-   1. [4K Background Maze/Game of Life](#4k-background-mazegame-of-life)
+## 목차
+1. [흥미로운 물건들](#things-of-interest)
+   1. [피라미드 동상](#the-pyramid-statue)
+   2. [엽서](#the-postcard)
+   3. [편지](#the-letter)
+   4. [일지](#the-logbook)
+2. [해결 방법](#the-solutions)
+   1. [피라미드 코드](#the-code-from-the-pyramid)
+   2. [문양 코드](#emblem-codes)
+      1. [(CE 소유자 전용) 엽서](#ce-owners-only-the-postcard)
+      2. [(모두) 튜브/막대 퍼즐](#everyone-the-tuberod-puzzle)
+      3. [(모두) 도트 편지 퍼즐](#everyone-the-dot-letter-puzzle)
+      4. [(모두) 그래프 퍼즐](#everyone-the-graph-puzzle)
+3. [풀리지 않은 수수께끼](#the-unsolved-mysteries)
+4. [막다른 골목/논점이탈의 오류](#the-dead-ends)
+   1. [4K 배경 미로/인생게임]](#4k-background-mazegame-of-life)
 
-## Things of Interest
+## 흥미로운 물건들
 
-### The Pyramid Statue
-Officially called "The Splinter" in the guide explaining how it works, the statue has four modes: On, Breathe, Code, Off. In Code mode, it blinks in a repeating pattern of about a minute, with a combination of short, long and pulsating blinks. This code has been cracked, see [The Code From the Pyramid](#the-code-from-the-pyramid).
+### 피라미드 동상
+공식 사용설명서에서 "파편"이라고 부르는 이 동상은 4개의 모드를 가지고 있습니다: 켜기, 호흡, 코드, 끄기. 코드 모드에서는 짧은 점멸, 긴 점멸, 맥동 점멸의 조합으로 약 1분 정도의 반복 패턴으로 깜박입니다. 이 코드는 뚫렸습니다. [피라미드 코드 보기.](#the-code-from-the-pyramid)
 
-### The Postcard
+### 엽서
 
 ![The backside of the postcard, containing some text (see below)](assets/img/postcard-pg2.png)
 
-_Image credit: Bachmanetti ([Twitter](https://twitter.com/bachmanetti), [Reddit](https://www.reddit.com/u/bachmanetti)). Screenshot from page 2 of [original PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view)._
+_이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti). [원본 PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view)의 2페이지 스크린샷._
 
-The postcard contains a line of red text containing the following three parts: `ca 0 1 9 9 1 0707 B´ID`, `N N N - N N N - N N N`, `S T R   D ST`
-The first and third part are equal on all postcards. The second part is unique for each postcard, and is an emblem code that can be redeemed for an emblem at [bungie.net/redeem](https://bungie.net/redeem). **THE CODE IS UNIQUE AND USABLE ONCE ONLY! DO NOT SHARE YOURS WITH OTHERS BEFORE YOU HAVE REDEEMED IT!**
+엽서에는 다음과 같은 세 부분으로 구성된 빨간 글자가 일렬로 있습니다: `ca 0 1 9 9 1 0707 B´ID`, `N N N - N N N - N N N`, `S T R   D ST`
+첫 번째와 세 번째 부분은 모든 엽서가 동일합니다. 두 번째 부분은 각 엽서의 고유 코드이고, [bungie.net/redeem](https://bungie.net/redeem)에서 문양으로 바꿀 수 있는 문양 코드입니다. **이 코드는 일회용입니다! 코드를 사용하기 전에 다른 사람과 공유하지 마십시오!**
 
-The first part seems to be a reference to Bungie itself (The company was started in 1991, and 0707 (July 7) is Bungie Day).
+첫 번째 부분은 번지에 대한 내용인 것 같습니다. (회사 설립일은 1991년이고, 0707 (7월 7일) 은 번지의 날 입니다)
 
-The third part seems to be a reference to "Stardust", which has been rumoured to be an internal codename, first for Season of Arrivals, then for Beyond Light. Its appearance here seems to support the latter. May also be an allusion to the seeming fact that The Nine have an interest in Europa (as detailed in [The Letter/Vanguard Report](#the-letter)).
+세 번째 부분은 "Stardust"에 대한 언급인 것 같습니다. "Stardust"는 번지 내부 코드네임으로 소문이 나 있습니다. 출현의 시즌, 그리고 빛의 저편을 위한 것입니다. 이 모습은 후자를 뒷받침하는 것 같습니다. 아홉이 유로파에 관심을 가진다는 것을 암시하는 것 일 수도 있습니다. ([편지/선봉대 보고서](#the-letter)에 자세히 설명되있음).
 
-See the entire thing [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing).
+[여기](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing)에서 전체 내용을 볼 수 있습니다.  (구글 드라이브, Bachmanetti 제공)
 
-### The Letter
-The letter is twofold: a report to the Vanguard by "CHA-319" regarding the ban on traveling to Europa, and a handwritten letter on the back. The letter references Clovis Bray as "my grandfather", and is signed "Your stranger I remain, E". This confirms that the Exo Stranger is Elsie Bray, as we have suspected for a while now.
+### 편지
+편지는 두 종류입니다: "CHA-319"가 유로파 탐험 금지에 대한 선봉대 보고서와 뒷면의 손편지. 손편지에는 클로비스 브레이를 "할아버지"로 언급하고 있으며, 편지 서명에는 "Your stanger I remain, E"라고 적혀있습니다. 이것은 엑소 스트레인져가 엘사 브레이 라는것을 확인시켜줍니다.
 
-Read the entire letter/report [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1705NGpLBLjwlS-eJ7Q_1CsOQaS-tVlN_/view?usp=sharing).
+[여기](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view?usp=sharing)에서 편지/보고서의 전체 내용을 볼 수 있습니다.  (구글 드라이브, Bachmanetti 제공)
 
-### The Logbook
-The logbook is 46 pages long and details Clovis Bray's exploration of Europa and work on Exos. It contains a ton of puzzles and lore, as well as some letters to and from his grandchildren: Elsie, Ana and Willa. Hot damn is this a read. I recommend looking through it all. So far all the puzzles we have found came from within this logbook, and there are probably more because there are so many cryptic images in here.
+### 일지
+일지는 총 46장이고, 클로비스 브레이의 유로파 탐험과 엑소 작업을 자세하게 설명합니다. 그것은 많은 퍼즐과 로어가 들어있으며, 그의 손자인 엘사와 아나, 윌라에게 보내는 편지도 있습니다. 빌어먹을, 이건 읽는 거에요. 모든 걸 살펴보는걸 추천합니다. 지금까지 저희가 발견한 모든 퍼즐은 이 일지에서 나온 것입니다. 그리고 분명 더 많은 것들이 있을 겁니다. 왜냐면 이 안에 넘치게 많은 암호화된 이미지들이 있기 떄문입니다.
 
 Read the entire logbook as PDF [here (Google Drive, courtesy of Bachmanetti)](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view?usp=sharing).
 

@@ -9,7 +9,7 @@
 
 이 중에서, 우리는 엽서와 편지/보고서, 피라미드, 일지에서 흥미로운 것을 발견했습니다.
 
-([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti) Bachmanetti님이 제공해주신 자료 덕분에,  [여기 (구글 드라이브)](https://drive.google.com/drive/folders/1mNPXZUR_tA0iN0b5GHCKcIu5RHmVTsYB)에 고해상도 이미지와 PDF파일이 있습니다.
+([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti)) Bachmanetti님이 제공해주신 자료 덕분에,  [여기 (구글 드라이브)](https://drive.google.com/drive/folders/1mNPXZUR_tA0iN0b5GHCKcIu5RHmVTsYB)에 고해상도 이미지와 PDF파일이 있습니다.
 
 문양 코드만 받으려고 한다면, 이걸 참고하세요:
 
@@ -43,7 +43,7 @@
 
 ### 엽서
 
-![문자 일부를 포함하는 엽서의 뒷면 (아래 참조)](assets/img/postcard-pg2.png)
+![문자 일부를 포함하는 엽서의 뒷면 (아래 참조)](../assets/img/postcard-pg2.png)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti). [원본 PDF](https://drive.google.com/file/d/1ie8Iiycnx6vQCKz2JwtBFfahvJHUyTaM/view)의 2페이지 스크린샷._
 
@@ -74,7 +74,7 @@ _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [�
 ### 피라미드 코드
 이 수수께기의 해결법은 피라미드의 코드 모드 상태의 깜박임과 일지의 첫번째 장을 대조해서 찾을 수 있습니다.
 
-![로그북의 첫번째 장. 5행 23열로 된 표가 있습니다. 각 행의 오른쪽에는 숫자가 있습니다. 표의 왼쪽 위는 숫자 0입니다.](assets/img/logbook-pg1-cutout-1.jpg)
+![로그북의 첫번째 장. 5행 23열로 된 표가 있습니다. 각 행의 오른쪽에는 숫자가 있습니다. 표의 왼쪽 위는 숫자 0입니다.](../assets/img/logbook-pg1-cutout-1.jpg)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti). [원본 PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)의 2페이지 스크린샷._
 
@@ -97,7 +97,7 @@ _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [�
 
 Bachmanetti는 표의 왼쪽에 있는 숫자가 타임스탬프(밀리초)이며, 맥동 유형의 깜박임과 일치하다는 것을 알아냈습니다. 밀리초를 열의 개수만큼 나누면(예시: 11350ms / 23열 ≈ 500ms/열), 표의 각 칸은 약 0.5초에 해당한다는 것을 알 수 있습니다. 만약 우리가 영상에서 한 번에 0.5초씩 넘겨서 불이 켜진 파편에 해당하는 칸을 채운다면, 우리는 다음과 같은 결과를 얻을 수 있습니다.
 
-![표의 칸을 채웟을 때](assets/img/choose.png)
+![표의 칸을 채웟을 때](../assets/img/choose.png)
 
 _이미지 제공: Dzho (디스코드- Dzho#1101), [원본](https://cdn.discordapp.com/attachments/768122197725806643/768235162353664050/unknown.png)_
 
@@ -116,7 +116,7 @@ _이미지 제공: Dzho (디스코드- Dzho#1101), [원본](https://cdn.discorda
 
 코드를 입력하려면 Bungie.net에 로그인한 후 CE 엽서 코드를 사용해야 합니다(반드시 CE를 가지고 있어야 합니다). 이렇게 하면 (그리고 백그라운드에서 사용권한을 동기화하여 업데이트할 때까지 잠시 기다린후), 화면에 "CHOOSE"를 입력하면 다음과 같은 화면이 나타납니다:
 
-![bungie.net/analyze 에 코드를 입력한 후 스크린샷](assets/img/bungie-net-analyze.png)
+![bungie.net/analyze 에 코드를 입력한 후 스크린샷](../assets/img/bungie-net-analyze.png)
 
 _이미지 출처: Myrzir (디스코드- Myrzir#0934), [원본](https://cdn.discordapp.com/attachments/768122197725806643/768556752077062204/unknown.png)_
 
@@ -133,13 +133,13 @@ _이미지 출처: Myrzir (디스코드- Myrzir#0934), [원본](https://cdn.disc
 #### (공용) 튜브/막대 퍼즐
 튜브/막대는 일지의 16페이지와 27페이지에 있습니다. 16페이지는 다음과 같습니다:
 
-![16페이지에서 막대와 글자를 포함하도록 잘라냄](assets/img/logbook-pg16-cutout-1.jpg)
+![16페이지에서 막대와 글자를 포함하도록 잘라냄](../assets/img/logbook-pg16-cutout-1.jpg)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti)). [원본 PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)의 16페이지 스크린샷_
 
 27페이지는 다음과 같습니다:
 
-![27페이지에서는 3개의 막대가 작은 막대로 구성되어있음](assets/img/logbook-pg27-cutout-1.png)
+![27페이지에서는 3개의 막대가 작은 막대로 구성되어있음](../assets/img/logbook-pg27-cutout-1.png)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti)). [원본 PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)의 27페이지 스크린샷._
 
@@ -156,13 +156,13 @@ RA9XPH6KJ
 #### (공용) 도트 편지 퍼즐
 일지의 28페이지에서 다음과 같은 배열 형태를 찾을 수 있습니다:
 
-![28페이지에는 많은 점이 있고, 그 중 몇몇은 점 옆에 글자가 있습니다](assets/img/logbook-pg28-cutout-1.png)
+![28페이지에는 많은 점이 있고, 그 중 몇몇은 점 옆에 글자가 있습니다](../assets/img/logbook-pg28-cutout-1.png)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti)). [원본 PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)의 28페이지 스크린샷._
 
 12페이지에서 동일한 도트 배열을 찾을 수 있지만, 다음과 같은 문자가 없습니다:
 
-![12페이지에서 많은 점들과 그 점들을 통과하는 선을 포함하도록 잘라냄](assets/img/logbook-pg12-cutout-1.png)
+![12페이지에서 많은 점들과 그 점들을 통과하는 선을 포함하도록 잘라냄](../assets/img/logbook-pg12-cutout-1.png)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti)). [원본 PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)의 12페이지 스크린샷._
 
@@ -171,7 +171,7 @@ _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [�
 #### (공용) 그래프 퍼즐
 일지의 29페이지에는 다음과 같은 그래프가 있습니다:
 
-![39페이지에서 잘라낸 그래프, y축 맨 아래에 0표시와 맨 위에 Z표시가 있습니다](assets/img/logbook-pg39-cutout-1.png)
+![39페이지에서 잘라낸 그래프, y축 맨 아래에 0표시와 맨 위에 Z표시가 있습니다](../assets/img/logbook-pg39-cutout-1.png)
 
 _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [레딧](https://www.reddit.com/u/bachmanetti)). [원본 PDF](https://drive.google.com/file/d/1Ib5OXH3UQr-6eG-eXlQEvMjsdV1p2Y45/view)의 39페이지 스크린샷._
 

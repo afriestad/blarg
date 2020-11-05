@@ -20,21 +20,21 @@
 [bungie.net/redeem](https://bungie.net/redeem) 에서 코드를 사용하세요. 이것들을 어떻게 찾은 건지 궁금하다면, 계속 읽어보세요!
 
 ## 목차
-1. [흥미로운 물건들](#things-of-interest)
-   1. [피라미드 동상](#the-pyramid-statue)
-   2. [엽서](#the-postcard)
-   3. [편지](#the-letter)
-   4. [일지](#the-logbook)
-2. [해결 방법](#the-solutions)
-   1. [피라미드 코드](#the-code-from-the-pyramid)
-   2. [문양 코드](#emblem-codes)
-      1. [(CE 소유자 전용) 엽서](#ce-owners-only-the-postcard)
-      2. [(공용) 튜브/막대 퍼즐](#everyone-the-tuberod-puzzle)
-      3. [(공용) 도트 편지 퍼즐](#everyone-the-dot-letter-puzzle)
-      4. [(공용) 그래프 퍼즐](#everyone-the-graph-puzzle)
-3. [풀리지 않은 수수께끼](#the-unsolved-mysteries)
-4. [막다른 골목/논점이탈의 오류](#the-dead-ends)
-   1. [4K 배경 미로/인생게임]](#4k-background-mazegame-of-life)
+1. [흥미로운 물건들](#흥미로운-물건들)
+   1. [피라미드 동상](#피라미드-동상)
+   2. [엽서](#엽서)
+   3. [편지](#편지)
+   4. [일지](#일지)
+2. [해결 방법](#해결-방법)
+   1. [피라미드 코드](#피라미도-코드)
+   2. [문양 코드](#문양-코드)
+      1. [(CE 소유자 전용) 엽서](#CE-소유자-전용-엽서)
+      2. [(공용) 튜브 / 막대 퍼즐](#공용-튜브--막대-퍼즐)
+      3. [(공용) 도트 편지 퍼즐](#공용-도트-편지-퍼즐)
+      4. [(공용) 그래프 퍼즐](#공용-그래프-퍼즐)
+3. [풀리지 않은 수수께끼](#풀리지-않은-수수께끼)
+4. [막다른 골목 / 논점이탈의 오류](#막다른-골목)
+   1. [4K 배경 미로 / 인생게임](#4k-배경-미로--인생게임)
 
 ## 흥미로운 물건들
 
@@ -185,7 +185,7 @@ Y축의 하단에는 0표시, 상단에 Z표시가 있습니다. 축에는 `0-9`
 ## 막다른 골목
 We've looked so diligently we even found mysteries where there were none. I list them here.
 
-### 4K 배경 미로/인생게임
+### 4K 배경 미로 / 인생게임
 누군가가 아래 이미지의 왼쪽 상단 모서리에서 이상한 미로같은 구조를 발견했습니다.
 
 ![빛의 저편 4K 배경](https://www.bungie.net/7/ca/destiny/products/beyondlight/media_wallpaper_1.png)

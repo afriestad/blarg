@@ -93,7 +93,7 @@ _이미지 제공: Bachmanetti ([트위터](https://twitter.com/bachmanetti), [�
 
 [63초 동안 깜박이는 파편 영상입니다.](https://twitter.com/i/status/1318568351665442817), Melmsie님 제공 ([트위터](https://twitter.com/realmelmsie)). 11초마다 보이는 부드러운 "맥동" 점멸을 기억합니다.
 
-~~![66초 동안 깜박이는 파편 영상](assets/video/bachmanetti-shard-66s.mp4)~~ 임베딩이 작동하지 않습니다 :(
+~~![66초 동안 깜박이는 파편 영상](../assets/video/bachmanetti-shard-66s.mp4)~~ 임베딩이 작동하지 않습니다 :(
 
 Bachmanetti는 표의 왼쪽에 있는 숫자가 타임스탬프(밀리초)이며, 맥동 유형의 깜박임과 일치하다는 것을 알아냈습니다. 밀리초를 열의 개수만큼 나누면(예시: 11350ms / 23열 ≈ 500ms/열), 표의 각 칸은 약 0.5초에 해당한다는 것을 알 수 있습니다. 만약 우리가 영상에서 한 번에 0.5초씩 넘겨서 불이 켜진 파편에 해당하는 칸을 채운다면, 우리는 다음과 같은 결과를 얻을 수 있습니다.
 

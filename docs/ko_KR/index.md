@@ -1,4 +1,4 @@
-[English](../index.md) | [Deutsch](de_DE/index.md) | **한국어**
+[English](../index.md) | [Deutsch](../de_DE/index.md) | **한국어**
 
 ## [bungie.net/analyze](https://bungie.net/analyze) 의 카운트다운을 사용할 수 없는 동안, 저는 [임시 카운트다운](countdown) 을 제공합니다.
 

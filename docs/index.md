@@ -1,4 +1,4 @@
-**English** | [Deutsch](de_DE/index.md)
+**English** | [Deutsch](de_DE/index.md) | [한국어](ko_KR/index.md)
 
 ## While the countdown on [bungie.net/analyze](https://bungie.net/analyze) is unreachable, I made available [an interim countdown](countdown).
 

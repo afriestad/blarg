@@ -1,6 +1,6 @@
 **English** | [Deutsch](de_DE/index.md) | [한국어](ko_KR/index.md)
 
-## While the countdown on [bungie.net/analyze](https://bungie.net/analyze) is unreachable, I made available [an interim countdown](countdown).
+## This writeup is out of date and contains no info from after the countdown ended on Thursday 2020-11-05 18:00 UTC. I will be adding a writeup of these steps in the time to come.
 
 # Destiny 2: Beyond Light ARG
 **What we know so far**.
